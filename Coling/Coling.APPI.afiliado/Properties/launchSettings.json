@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "Coling.API": {
+    "Coling.APPI.afiliado": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7207",
+      "commandLineArgs": "--port 7168",
       "launchBrowser": false
     }
   }
