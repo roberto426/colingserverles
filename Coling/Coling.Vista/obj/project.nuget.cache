@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rFZcDSI5okRRW9M8M6SxUav2yyiDHZ5KXyFMIPsRaTx2FU3xnF8a6v17RHb5QbcnpqgSHCjIKun1va5p4esiRw==",
+  "success": false,
+  "projectFilePath": "E:\\modalida de grado IV\\nuevastecnologias\\colingserverles1\\Coling\\Coling.Vista\\Coling.Vista.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "La versión de la plataforma no está presente para una o varias plataformas de destino, aunque se haya especificado una plataforma: net8.0-ios, net8.0-maccatalyst"
+    }
+  ]
+}

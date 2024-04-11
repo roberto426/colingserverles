@@ -1,0 +1,26 @@
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\bin\Debug\net8.0\Coling.Shared.deps.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\bin\Debug\net8.0\Coling.Shared.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\bin\Debug\net8.0\Coling.Shared.pdb
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.AssemblyInfoInputs.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.AssemblyInfo.cs
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.csproj.CoreCompileInputs.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.sourcelink.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Debug\net8.0\refint\Coling.Shared.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.pdb
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Debug\net8.0\ref\Coling.Shared.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.csproj.AssemblyReference.cache
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Shared\bin\Debug\net8.0\Coling.Shared.deps.json
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Shared\bin\Debug\net8.0\Coling.Shared.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Shared\bin\Debug\net8.0\Coling.Shared.pdb
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.csproj.AssemblyReference.cache
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.AssemblyInfoInputs.cache
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.AssemblyInfo.cs
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.csproj.CoreCompileInputs.cache
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.sourcelink.json
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Shared\obj\Debug\net8.0\refint\Coling.Shared.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Shared\obj\Debug\net8.0\Coling.Shared.pdb
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Shared\obj\Debug\net8.0\ref\Coling.Shared.dll

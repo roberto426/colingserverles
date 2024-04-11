@@ -1,0 +1,26 @@
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Utilitarios\bin\Debug\net8.0\Coling.Utilitarios.deps.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Utilitarios\bin\Debug\net8.0\Coling.Utilitarios.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Utilitarios\bin\Debug\net8.0\Coling.Utilitarios.pdb
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.csproj.AssemblyReference.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.AssemblyInfoInputs.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.AssemblyInfo.cs
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.csproj.CoreCompileInputs.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.sourcelink.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Utilitarios\obj\Debug\net8.0\refint\Coling.Utilitarios.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.pdb
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Utilitarios\obj\Debug\net8.0\ref\Coling.Utilitarios.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Utilitarios\bin\Debug\net8.0\Coling.Utilitarios.deps.json
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Utilitarios\bin\Debug\net8.0\Coling.Utilitarios.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Utilitarios\bin\Debug\net8.0\Coling.Utilitarios.pdb
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.csproj.AssemblyReference.cache
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.AssemblyInfoInputs.cache
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.AssemblyInfo.cs
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.csproj.CoreCompileInputs.cache
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.sourcelink.json
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Utilitarios\obj\Debug\net8.0\refint\Coling.Utilitarios.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Utilitarios\obj\Debug\net8.0\Coling.Utilitarios.pdb
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Utilitarios\obj\Debug\net8.0\ref\Coling.Utilitarios.dll

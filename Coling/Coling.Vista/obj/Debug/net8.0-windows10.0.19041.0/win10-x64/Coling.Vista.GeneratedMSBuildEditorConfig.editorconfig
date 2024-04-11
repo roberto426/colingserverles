@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Coling.Vista
+build_property.RootNamespace = Coling.Vista
+build_property.ProjectDir = E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/Components/Pages/AfiliadosVista/ListarPersonasVistas.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZmlsaWFkb3NWaXN0YVxMaXN0YXJQZXJzb25hc1Zpc3Rhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/Components/Pages/InstitucionVista/EditarInstitucionVista.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnN0aXR1Y2lvblZpc3RhXEVkaXRhckluc3RpdHVjaW9uVmlzdGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/Components/Pages/InstitucionVista/InstitucionCrearVista.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnN0aXR1Y2lvblZpc3RhXEluc3RpdHVjaW9uQ3JlYXJWaXN0YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/Components/Pages/InstitucionVista/InstitucionFormularioVista.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnN0aXR1Y2lvblZpc3RhXEluc3RpdHVjaW9uRm9ybXVsYXJpb1Zpc3RhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/Components/Pages/InstitucionVista/ListarInstitucionesVista.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnN0aXR1Y2lvblZpc3RhXExpc3Rhckluc3RpdHVjaW9uZXNWaXN0YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Um91dGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-54bdzcia9d
+
+[E:/modalida de grado IV/nuevastecnologias/colingserverles1/Coling/Coling.Vista/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-j2yxk5b7f8

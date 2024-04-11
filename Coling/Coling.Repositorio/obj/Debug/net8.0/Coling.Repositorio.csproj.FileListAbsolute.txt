@@ -1,0 +1,13 @@
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Repositorio\bin\Debug\net8.0\Coling.Repositorio.deps.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Repositorio\bin\Debug\net8.0\Coling.Repositorio.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Repositorio\bin\Debug\net8.0\Coling.Repositorio.pdb
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Repositorio\obj\Debug\net8.0\Coling.Repositorio.csproj.AssemblyReference.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Repositorio\obj\Debug\net8.0\Coling.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Repositorio\obj\Debug\net8.0\Coling.Repositorio.AssemblyInfoInputs.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Repositorio\obj\Debug\net8.0\Coling.Repositorio.AssemblyInfo.cs
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Repositorio\obj\Debug\net8.0\Coling.Repositorio.csproj.CoreCompileInputs.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Repositorio\obj\Debug\net8.0\Coling.Repositorio.sourcelink.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Repositorio\obj\Debug\net8.0\Coling.Repositorio.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Repositorio\obj\Debug\net8.0\refint\Coling.Repositorio.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Repositorio\obj\Debug\net8.0\Coling.Repositorio.pdb
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Repositorio\obj\Debug\net8.0\ref\Coling.Repositorio.dll

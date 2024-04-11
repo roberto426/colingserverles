@@ -1,0 +1,673 @@
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.runtimeconfig.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.pdb
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Authorization.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.WebView.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Metadata.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.JSInterop.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipelines.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Console.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Core.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\netstandard.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt.dat
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_EFIGS.dat
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_hybrid.dat
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_no_CJK.dat
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicudata.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicui18n.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicuuc.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.build.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.development.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.Coling.Vista.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.build.Coling.Vista.props
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.buildMultiTargeting.Coling.Vista.props
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.buildTransitive.Coling.Vista.props
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.pack.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\bundle\Coling.Vista.styles.css
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\projectbundle\Coling.Vista.bundle.scp.css
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.publish.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.csproj.AssemblyReference.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.AssemblyInfoInputs.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.AssemblyInfo.cs
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.csproj.CoreCompileInputs.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.MvcApplicationPartsAssemblyInfo.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.sourcelink.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.csproj.CopyComplete
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\Coling.Vista.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.pdb
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.genruntimeconfig.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\Coling.Vista.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.runtimeconfig.json
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.pdb
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Azure.Core.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Azure.Data.Tables.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\CurrieTechnologies.Razor.SweetAlert2.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Authorization.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.Forms.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.Web.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.WebView.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.AspNetCore.Metadata.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Bcl.AsyncInterfaces.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Binder.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Json.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Composite.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileProviders.Physical.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Http.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.JSInterop.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Compatibility.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MongoDB.Bson.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Newtonsoft.Json.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipelines.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Memory.Data.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\cs\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\da\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\de\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\el\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\es\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fi\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\fr\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\he\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hi\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hr\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\hu\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\id\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\it\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ja\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ko\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ms\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nb\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\nl\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pl\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\pt\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ro\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ru\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sk\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\sv\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\th\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\tr\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\uk\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\vi\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Console.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Core.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Data.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.IO.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Net.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Security.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Web.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\netstandard.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt.dat
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_EFIGS.dat
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_hybrid.dat
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\icudt_no_CJK.dat
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Globalization.Native.dylib
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicudata.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicui18n.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libicuuc.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-static.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmono-component-marshal-ilgen-stub-static.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot-debug.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Shared.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Shared.pdb
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.build.json
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.development.json
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.Coling.Vista.Microsoft.AspNetCore.StaticWebAssets.props
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.build.Coling.Vista.props
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.buildMultiTargeting.Coling.Vista.props
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.buildTransitive.Coling.Vista.props
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.pack.json
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\bundle\Coling.Vista.styles.css
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\scopedcss\projectbundle\Coling.Vista.bundle.scp.css
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\staticwebassets.publish.json
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.csproj.AssemblyReference.cache
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.GeneratedMSBuildEditorConfig.editorconfig
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.AssemblyInfoInputs.cache
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.AssemblyInfo.cs
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.csproj.CoreCompileInputs.cache
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.MvcApplicationPartsAssemblyInfo.cache
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.sourcelink.json
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.V.254DEE54.Up2Date
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\refint\Coling.Vista.dll
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.pdb
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Coling.Vista.genruntimeconfig.cache
+E:\modalida de grado IV\nuevastecnologias\colingserverles1\Coling\Coling.Vista\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\Coling.Vista.dll

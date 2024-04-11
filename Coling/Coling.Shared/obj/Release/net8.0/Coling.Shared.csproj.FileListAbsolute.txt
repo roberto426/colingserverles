@@ -1,0 +1,13 @@
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\bin\Release\net8.0\Coling.Shared.deps.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\bin\Release\net8.0\Coling.Shared.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\bin\Release\net8.0\Coling.Shared.pdb
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Release\net8.0\Coling.Shared.csproj.AssemblyReference.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Release\net8.0\Coling.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Release\net8.0\Coling.Shared.AssemblyInfoInputs.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Release\net8.0\Coling.Shared.AssemblyInfo.cs
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Release\net8.0\Coling.Shared.csproj.CoreCompileInputs.cache
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Release\net8.0\Coling.Shared.sourcelink.json
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Release\net8.0\Coling.Shared.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Release\net8.0\refint\Coling.Shared.dll
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Release\net8.0\Coling.Shared.pdb
+D:\NT JhorelAngelo\colingserverles\Coling\Coling.Shared\obj\Release\net8.0\ref\Coling.Shared.dll
